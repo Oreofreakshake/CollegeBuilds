@@ -7,7 +7,7 @@ package tutorialclass;
 
 /**
  *
- * @author student
+ * @author yazak
  */
 public class SavingAccount extends BankAccount{
     

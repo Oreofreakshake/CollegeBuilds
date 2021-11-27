@@ -7,7 +7,7 @@ package tutorialclass;
 
 /**
  *
- * @author student
+ * @author yazak
  */
 abstract public class BankAccount {
     protected int accountNumber;

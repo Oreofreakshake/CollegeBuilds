@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author student
+ * @author yazak
  */
 public class TutorialClass {
 
