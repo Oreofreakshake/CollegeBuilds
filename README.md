@@ -1,9 +1,10 @@
 # CollegeBuilds
 
-`Implement a multidimensional array using Mr., Mrs., Ms.,
-          Smith and Jones to obtain an output displaying:
+Implement a multidimensional array using Mr., Mrs., Ms.,<br>
+          Smith and Jones to obtain an output displaying:<br>
+          
           I.  Mr. Smith
-          II. Ms. Jones`
+          II. Ms. Jones
           
 output : 
 
