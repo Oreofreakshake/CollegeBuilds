@@ -1,3 +1,12 @@
 # CollegeBuilds
-### All my college related programs will be archived here you can check it out if you want but I'll create a different repo for final projects
-#### Check branches to see the tutorials / programs
+
+Implement a multidimensional array using Mr., Mrs., Ms.,<br>
+          Smith and Jones to obtain an output displaying:<br>
+          
+          I.  Mr. Smith
+          II. Ms. Jones
+          
+output : 
+
+
+![image](https://user-images.githubusercontent.com/53213763/153728384-7a2fb824-dfce-4c77-be6b-9b44b84037d3.png)
