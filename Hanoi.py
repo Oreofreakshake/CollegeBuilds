@@ -1,10 +1,14 @@
-def hanoi(nDisks, fromRod, toRod):
-    if nDisks ==1:
-        return f"{nDisks} moved to {toRod}\n"
+def hanoi(nDisks, start, end):
+    if nDisks == 1:
+        return f"{start} moved to {end}\n"
+
     else:
-        middleRod = 6 - (fromRod+toRod)
-        
+        middle = 6 - (start + end)
+        output1 = hanoi(nDisks - 1, start, middle)
+        output2 = f"{start} moved to {end}\n"
+        output3 = hanoi(nDisks - 1, middle, end)
+
+        return output1 + output2 + output3
 
 
-
-print(hanoi(3, 1 ,3))
+print(hanoi(3, 1, 3))
